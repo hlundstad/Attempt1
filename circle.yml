@@ -1,4 +1,3 @@
-#
 deployment:
   dockerhub:
     branch: master
